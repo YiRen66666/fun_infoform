@@ -35,4 +35,5 @@ Graduation date input is a plain text field for now – can be enhanced with dat
 
 
 Demo:
-![alt text](image-2.png)
+![image](https://github.com/user-attachments/assets/07ff5837-dea3-4507-a7a8-6a013bce9af3)
+
